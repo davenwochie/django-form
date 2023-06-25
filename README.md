@@ -1,1 +1,1 @@
-# django-form
+# django-project-forms
